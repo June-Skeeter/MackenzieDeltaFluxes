@@ -173,7 +173,7 @@ Established in summer 2024 to study the discontinuous permafrost zone.
 :::{.column width=50%}
 
 
-<iframe src="fieldSiteMap.html"width="500" height="500"></iframe>
+<iframe src="fieldSiteMap.html"width="500" height="425"></iframe>
 
 In a sedge wetland ecosystem "typical" of the outer delta.
 
