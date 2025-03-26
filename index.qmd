@@ -1,5 +1,5 @@
 ---
-title: "Understanding methane and carbon dioxide emissions in the Mackenzie Delta region"
+title: "Understanding Methane and Carbon Dioxide Emissions in the Mackenzie Delta Region"
 author: "Dr. June Skeeter [they/them/theirs]"
 format:
   revealjs:
@@ -31,7 +31,7 @@ I specialize in measuring greenhouse gas (GHG) exchange in permafrost environmen
 
 :::{.column width=50%}
 
-![2024 Fish Island Field Campaign](images/me.jpg)
+![2024 Swiss Cheese Lake Field Campaign](images/me.jpg)
 
 :::
 ::::
@@ -72,12 +72,14 @@ Climate change is shifting the carbon balance of the Arctic, which has far reach
 
 ## Importance of Methane
 
+Natural methane emissions are not well understood but they impact our climate policy decisions.
+
 ![Source: [GRID-Arendal, 2020](https://storymaps.arcgis.com/stories/c163de04de7849cdb917fee88015dd73)](images/MethaneSources.png)
 
 
 ## A Methane Hot-spot
 
-The Mackenzie River Delta is hot-spot for methane in the Canadian Arctic.  Aircraft and satellite have detected significant methane emissions
+The Mackenzie River Delta is hot-spot for methane in the Canadian Arctic.  Aircraft and satellite have detected significant methane emissions.
 
 ![Source: [Kohnert et al. (2017)](https://www.nature.com/articles/s41598-017-05783-2/figures/2)](images/Kohnert.webp)
 
@@ -100,7 +102,7 @@ The limited field based measurements available suggest of substantial growing se
 
 ## Geologic Methane
 
-In discontinuous permafrost, some gas seeps are visible to the naked eye!
+In thin/discontinuous permafrost, some gas seeps are visible to the naked eye!
 
 ::::{.columns}
 :::{.column width=50%}
@@ -120,7 +122,7 @@ In discontinuous permafrost, some gas seeps are visible to the naked eye!
 
 ## How do we measure emissions?
 
-Eddy covariance (EC) is a principal method to monitor landscape-scale fluxes.
+Eddy covariance (EC) is a principal method to monitor landscape-scale fluxes (rate of emission/uptake).
 
 ::::{.columns}
 :::{.column width=50%}
@@ -180,13 +182,15 @@ In a sedge wetland ecosystem "typical" of the outer delta.
 
 ## Swiss Cheese Lake
 
+
+Objective is to help understand biologic and diffuse geologic emissions in thin permafrost.
+
 ::::{.columns}
 :::{.column width="50%"}
 
-Objective is to help understand emissions associated with biologic production and diffuse geologic sources in discontinuous permafrost.
-
-* Understand drivers of emission
-* Measure non-growing season emissions 
+* What drives fluxes?
+* How important are non-growing season emissions?
+* What impact will permafrost degradation have? 
 
 
 :::
@@ -202,10 +206,12 @@ Objective is to help understand emissions associated with biologic production an
 
 Eddy covariance produces large volumes of data which are requires complex, computationally expensive processing.
 
-* This poses a significant challenge to researchers.
-  + Only ~10% of EC sites in Canada have published open-access datasets.
+* This poses a significant challenge to researchers
+  + Only ~10% of EC sites in Canada have published open-access datasets
 
-* I am collaborating on an open-source data processing pipeline with other Canadian researchers.
+* I am working on an **open-source processing pipeline** 
+  + Standardize and streamline procedures
+  +  Help other Canadian researchers process their data
 
 
 ## Next steps
@@ -215,8 +221,8 @@ Installing upgraded sensors and upgrading the power system to support non-growin
 ::::{.columns}
 :::{.column}
 
-* 2024 was an exploratory campaign conducted using borrowed sensors.  
-* 2025 will be run using GSC sensors.
+* 2024 was an exploratory campaign conducted using borrowed sensors
+* 2025 will be run using GSC sensors
 
 :::
 :::{.column}
