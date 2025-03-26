@@ -148,8 +148,8 @@
     //  Create the map - zoom and center are "arbitrary"
     const map = new mapboxgl.Map({
                 container: 'map',
-                zoom: 10,
-                center: [-134,69], // starting position
+                zoom: 12,
+                center: [-135.2519067,69.2264167], // starting position
                 style: mapStyle,
                 });
 
@@ -222,15 +222,15 @@
         });
 
         
-    let bbox = turf.extent(turf.buffer(fieldSites,.01));
+    // let bbox = turf.extent(turf.buffer(fieldSites,.01));
     
     
     // fit zom to the bounding box of whichever layers are loaded
-    function fit() {
-        map.fitBounds(bbox, {max1Zoom: 4});
-        };
+    // function fit() {
+       // map.fitBounds(bbox, {max1Zoom: 4});
+        //};
 
-    fit();
+    //fit();
 
     map.addControl(new mapboxgl.ScaleControl({position: 'bottom-right'}));
     

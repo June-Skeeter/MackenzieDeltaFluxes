@@ -173,9 +173,9 @@ Established in summer 2024 to study the discontinuous permafrost zone.
 :::{.column width=50%}
 
 
-![](images/SCL.jpg)
+<iframe src="fieldSiteMap.html"width="500" height="500"></iframe>
 
-Located in a sedge wetland ecosystem "typical" of the outer delta.
+In a sedge wetland ecosystem "typical" of the outer delta.
 
 :::
 ::::
@@ -185,14 +185,17 @@ Located in a sedge wetland ecosystem "typical" of the outer delta.
 ::::{.columns}
 :::{.column width="50%"}
 
-Objective is to help understand emissions in the area associated with biologic production and diffuse geologic emissions.
+Objective is to help understand emissions associated with biologic production and diffuse geologic sources in discontinuous permafrost.
+
+* Understand drivers of emission
+* Measure non-growing season emissions 
 
 
 :::
 :::{.column width="50%"}
 
 
-<iframe src="fieldSiteMap.html"width="500" height="550"></iframe>
+![](images/SCL.jpg)
 
 :::
 ::::
@@ -233,7 +236,7 @@ Swiss Cheese Lake can serve as an "anchor point" for more spatially targeted inv
 :::{.column}
 
 * Flux chambers to investigate fine-scale patterns
-* Use drone to target hot-spots in the surrounding area.
+* Use drone to target hot-spots in the surrounding area
 * Temporary EC systems in natural and disturbed areas
 
 
