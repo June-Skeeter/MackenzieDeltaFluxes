@@ -1,0 +1,217 @@
+---
+title: "Understanding methane and carbon dioxide emissions in the Mackenzie Delta region"
+author: "Dr. June Skeeter [they/them/theirs]"
+format:
+  revealjs:
+    theme: default
+    scrollable: true
+    controls: true
+    navigation-mode: linear
+    controls-layout: bottom-right
+    controls-tutorial: true
+    slide-number: true
+    show-slide-number: all
+    pdfMaxPagesPerSlide: 1
+    footer: <a href="index.html">Back to Homepage</a>
+---
+
+## Introduction: My Background
+
+
+I specialize in measuring greenhouse gas (GHG) exchange in permafrost environments.
+
+::::{.columns}
+:::{.column width=50%}
+
+* PhD in Geography from UBC in 2023
+* I started as a research scientists with the GSC in summer 2024
+  + "Cross posted" between GSC Northern and Pacific
+
+:::
+
+:::{.column width=50%}
+
+![2024 Fish Island Field Campaign](images/me.jpg)
+
+:::
+::::
+
+
+## Framing the Problem
+
+The Arctic is warming ~3x faster than the global average.  
+
+![Image source: [Skeeter 2022](https://june-skeeter.github.io/ThesisDefense/#/)](images/CMIP.png)
+
+
+
+## Carbon-Climate Feedback
+
+Climate change is shifting the carbon balance of the Arctic, which has far reaching global implications.
+
+::::{.columns}
+:::{.column width=50%}
+
+
+* Extended growing seasons
+  + &uarr; Carbon *uptake*
+* Permafrost degradation
+  + &uarr; Carbon **emission**
+* Flooding & coastal erosion
+  + &uarr; Carbon **emission**
+
+
+:::
+
+:::{.column width=50%}
+
+![Niglintgak thaw slump](images/Slump.jpg)
+
+:::
+::::
+
+## Importance of Methane
+
+![Source: [GRID-Arendal, 2020](https://storymaps.arcgis.com/stories/c163de04de7849cdb917fee88015dd73)](images/MethaneSources.png)
+
+
+## A Methane Hot-spot
+
+The Mackenzie River Delta is hot-spot for methane in the Canadian Arctic.
+
+* Aircraft and satellite have detected significant methane emissions
+
+![Source: [Kohnert et al. (2017)](https://www.nature.com/articles/s41598-017-05783-2/figures/2)](images/Kohnert.webp)
+
+## Biologic Emissions
+
+::::{.columns}
+:::{.column width=65%}
+
+The limited field based measurements available suggest of substantial growing season emissions over where permafrost is continuous.
+
+![](images/Asci.png)
+
+:::
+:::{.column width=35%}
+
+![Source: [Skeeter 2023](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421939)](images/DeltaMap.png)
+
+:::
+::::
+
+## Geologic Methane
+
+In discontinuous permafrost, some gas seeps are visible to the naked eye!
+
+::::{.columns}
+:::{.column width=50%}
+
+* More work is needed:
+  + Map sources
+  + Quantify emissions
+  + Identify potential remediation strategies
+
+:::
+:::{.column width=50%}
+
+![](images/Bubbles.mp4)
+
+:::
+::::
+
+## How do we measure emissions?
+
+Eddy covariance (EC) is a principal method to monitor landscape-scale fluxes.
+
+::::{.columns}
+:::{.column width=50%}
+
+* Measures wind velocity and gas concentration at high frequency (20 Hz)
+* Gives a semi-continuous time series of half-hourly fluxes 
+
+:::
+:::{.column width=50%}
+
+![](images/EC.jpg)
+
+:::
+::::
+
+## Limited Observations
+
+::::{.columns}
+:::{.column width=50%}
+
+EC systems are expensive, difficult to operate in remote environments, and require meticulous analysis.
+
++ Bias towards accessible sites
++ Canadian Arctic is under-represented
+
+:::
+
+:::{.column width=50%}
+
+![Source: [Skeeter 2023](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0421939)](images/Fig1.png)
+
+
+:::
+::::
+
+
+
+## Swiss Cheese Lake
+
+::::{.columns}
+:::{.column width="50%"}
+
+Established in summer 2024 to study the discontinuous permafrost zone. 
+
+![](images/SCL_fall.jpg)
+
+:::
+:::{.column width=50%}
+
+
+![](images/SCL.jpg)
+
+Located in a sedge wetland ecosystem "typical" of the outer delta.
+
+:::
+::::
+
+## Swiss Cheese Lake
+
+::::{.columns}
+:::{.column width="50%"}
+
+Objective is to help understand emissions in the area associated with biologic production and diffuse geologic emissions.
+
+* Serve as "anchor point" for more spatially targeted investigations.
+
+:::
+:::{.column width="50%"}
+
+
+<iframe src="fieldSiteMap.html"width="500" height="550"></iframe>
+
+:::
+::::
+
+
+## Next steps
+
+Continuing to work on an open-source data processing pipeline.
+
+Upgrading system to support non-growing season measurements.
+
+
+## Further work
+
+Target point-source hot-spots in the surrounding area.
+
+* Natural and disturbed areas
+
+## Thank you
+
+Questions?
