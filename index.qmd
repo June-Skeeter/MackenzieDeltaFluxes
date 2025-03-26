@@ -77,9 +77,7 @@ Climate change is shifting the carbon balance of the Arctic, which has far reach
 
 ## A Methane Hot-spot
 
-The Mackenzie River Delta is hot-spot for methane in the Canadian Arctic.
-
-* Aircraft and satellite have detected significant methane emissions
+The Mackenzie River Delta is hot-spot for methane in the Canadian Arctic.  Aircraft and satellite have detected significant methane emissions
 
 ![Source: [Kohnert et al. (2017)](https://www.nature.com/articles/s41598-017-05783-2/figures/2)](images/Kohnert.webp)
 
