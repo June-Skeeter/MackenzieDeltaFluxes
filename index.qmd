@@ -227,15 +227,14 @@ Installing upgraded sensors and upgrading the power system to support non-growin
 
 ## Further work
 
-
-
-Target point-source hot-spots in the surrounding area.
+Swiss Cheese Lake can serve as an "anchor point" for more spatially targeted investigations.
 
 ::::{.columns}
 :::{.column}
 
-* Site can serve "anchor point" for more spatially targeted investigations.
-  * Natural and disturbed areas
+* Flux chambers to investigate fine-scale patterns
+* Use drone to target hot-spots in the surrounding area.
+* Temporary EC systems in natural and disturbed areas
 
 
 :::
