@@ -241,12 +241,12 @@ Target point-source hot-spots in the surrounding area.
 :::
 :::{.column}
 
-![](images/Camp.jpg.jpg)
+![](images/Camp.jpg)
 
 :::
 ::::
 
 
-## Thank you {background-image="images/camp.jpg"} 
+## Thank you {background-image="images/rainbow.jpg"} 
 
 Questions?
